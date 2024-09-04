@@ -1,0 +1,15 @@
+<h1>Grocery List</h1>
+<h2>By Hannah Gillis </h2>
+<p>
+    <strong>Items Needed:</strong>
+    <dl>
+        <dt>Bread</dt>
+        <dd>- Multigrain bread</dd>
+        <dt>Lemonade</dt>
+        <dd>- Newman's Own&trade; Limeade</dd>
+        <dt>Soup</dt>
+        <dd>- Progresso Chicken Noodle Soup</dd>
+        <dt>Apples</dt>
+        <dd>- Honeycrisp Apples</dd>
+    </dl>
+</p>
