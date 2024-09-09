@@ -16,7 +16,12 @@
     <p><a href="../lab02/gillis-bio.html">Up one directory - Gillis Bio</a></p>
     <!--Bookmark link-->
     <p><a href="#newplace">Go to New Place</a> </p>
-    <h1 id="return">Page Heading</h1>
+    
+    <h1 id="newplace">New Place to Go</h1>
+
+    <h1>Images</h1>
+    <img src="images/otto.png" alt="Picture of Otto">
+
 </body>
 
 
