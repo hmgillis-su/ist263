@@ -14,8 +14,9 @@
 
     <!--Relative link-->
     <p><a href="../lab02/gillis-bio.html">Up one directory - Gillis Bio</a></p>
-
-    
+    <!--Bookmark link-->
+    <p><a href="#newplace">Go to New Place</a> </p>
+    <h1 id="return">Page Heading</h1>
 </body>
 
 
