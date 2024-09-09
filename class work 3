@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang = "en"> 
+
+<head>
+    <meta charset="utf-8">
+    <title>Unit 3 Notes</title>
+</head>
+
+<body>
+    <h1>Links</h1>
+   <!--External link-->
+    <a href="http://google.com">Google</a> 
+
+    <!--Relative link-->
+    <p><a href="../lab02/gillis-bio.html">Up one directory - Gillis Bio</a></p>
+
+    
+</body>
+
+
+</html>
