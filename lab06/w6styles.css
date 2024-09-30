@@ -4,4 +4,10 @@ h1 {color: hotpink; font-size: 120%;
 p {color: pink;
     font-size: 80%;
     font-family: Arial, Helvetica, sans-serif;}
-p a {color: red}
+p a {color: red;}
+
+/*this styles the id */
+#secondparagraph {font-size: 1.5em;}
+
+/*this styles a class */
+.purpletext {color: plum;}
