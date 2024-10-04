@@ -4,5 +4,5 @@ p a {color : darkcyan}
 
 
 tr:nth-child(even) {
-    background-color : lightsteelblue
+    background-color : rgb(127, 172, 231)
 }
