@@ -2,4 +2,4 @@ p {color : midnightblue}
 h1 {color : dodgerblue; font-size : 1.5em}
 h2 {color : dodgerblue; font-size : 1.25em}
 p a {color : darkcyan}
-.evenrow {background-color: lightsteelblue;}
+tr.evenrow {background-color: lightsteelblue;}
