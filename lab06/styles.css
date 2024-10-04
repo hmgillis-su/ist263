@@ -2,7 +2,4 @@ p, tr {color : midnightblue}
 h1, h2 {color : dodgerblue}
 p a {color : darkcyan}
 
-
-tr:nth-child(even) {
-    background-color : rgb(127, 172, 231)
-}
+.evenrow {color : lightsteelblue}
