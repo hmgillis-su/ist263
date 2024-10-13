@@ -1,9 +1,11 @@
+
 p {color : #03396c}
 h1 {color : #03396c; font-size : 1.5em}
 h2 {color : #03396c; font-size : 1.25em}
 p a {color : #011f4b}
 body {background-color: #e4edf2;}
-nav {background-color: #98d5f9;}
-nav a {color: #1f8ed4;}
-nav a:hover {background-color: #7fc9f7;}
-nav {padding: 10px;}
+
+body nav {background-color: #98d5f9;}
+body nav a {color: #1f8ed4;}
+body nav a:hover {background-color: #7fc9f7;}
+body nav {padding: 10px;}
