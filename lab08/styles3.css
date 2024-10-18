@@ -1,4 +1,6 @@
 .quote {float: right; margin-left: 10px}
+.tm {float: left}
+
 .pic {float: left;}
 table, th, td {border: 2px solid dodgerblue;}
 tr.even{background-color : lightsteelblue}
