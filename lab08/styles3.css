@@ -1,4 +1,5 @@
-
+.quote {float: right; margin-left: 10px}
+.pic {float: left;}
 table, th, td {border: 2px solid dodgerblue;}
 tr.even{background-color : lightsteelblue}
 
@@ -17,5 +18,5 @@ body nav a {color: #152a64}
 body nav a:hover {background-color: #7fc9f7}
 body nav {padding: 10px}
 nav {margin-bottom: 30px}
-.quote {float: right;}
+
 
