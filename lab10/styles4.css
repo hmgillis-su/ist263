@@ -20,4 +20,13 @@ body nav a:hover {background-color: #7fc9f7}
 body nav {padding: 10px}
 nav {margin-bottom: 30px}
 
+@media only screen and (max-width: 800px) { /*small screen */
+    /*nav a {}*/
+    .banner, .gibberish {display: none;}
+    .gibberish {display: none;}
+}
+@media only screen and (min-width: 801px){ /*big screen */
+    .bannersmall {display: none;}
+}
+
 
