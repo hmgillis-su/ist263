@@ -25,7 +25,8 @@ nav {margin-bottom: 30px}
     .gibberish {display: none;}
 }
 @media only screen and (min-width: 801px){ /*big screen */
-    nav a {max-width: 100%;}
+    nav a {max-width: 100%; display: block;}
+    span {display: none;}
 }
 
 
