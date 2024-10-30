@@ -21,13 +21,11 @@ body nav {padding: 10px}
 nav {margin-bottom: 30px}
 
 @media only screen and (max-width: 800px) { /*small screen */
-    .banner, .gibberish {display: none;}
-    .gibberish {display: none;}
-}
-@media only screen and (min-width: 801px){ /*big screen */
     nav a {max-width: 100%; display: block;}
     nav a {margin: 1.5em; padding: 1.5em;}
     span {display: none;}
 }
+/*@media only screen and (min-width: 801px){ /*big screen */
+/*
 
 
