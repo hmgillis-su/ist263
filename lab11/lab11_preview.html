@@ -2,10 +2,10 @@
 <html lang="en">
 <script>
     function WinnerMessage () {
-        document.getElementByID("messages").interHTML = 'You Won!'; 
+        document.getElementByID("messages").innerHTML = 'You Won!'; 
     }
     function TryAgain () {
-        document.getElementByID("messages").interHTML = 'Wrong Shell - Try Again'; 
+        document.getElementByID("messages").innerHTML = 'Wrong Shell - Try Again'; 
     }
     function ShuffleShells () {
         document.getElementById("first").style.order = Math.floor((Math.random() * 3) + 2); 
