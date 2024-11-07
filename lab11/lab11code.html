@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <script>
-    alert('You won!'); 
+    function WinnerMessage () {
+        alert('You won!'); 
+    }
+    function TryAgain () {
+        alert('Wrong Shell - Try Again'); 
+    }
 </script>
 <head>
     <meta charset="UTF-8">
@@ -12,7 +17,7 @@
 </head>
 <body>
     <h1>Choose a Walnut</h1>
-    <img src="https://peopel-su.github.io/ist263/images/walnut.png" alt="first walnut" class="first">
+    <img src="https://peopel-su.github.io/ist263/images/walnut.png" alt="first walnut" class="first" onclick="WinnerMessage();">
     <img src="https://peopel-su.github.io/ist263/images/walnut.png" alt="second walnut" class="second">
     <img src="https://peopel-su.github.io/ist263/images/walnut.png" alt="third walnut" class="third">
 </body>
