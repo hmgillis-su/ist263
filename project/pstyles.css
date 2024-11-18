@@ -1,0 +1,27 @@
+.quote {float: right;}
+.tm {float: left;}
+
+table, th, td {border: 2px solid dodgerblue;}
+tr.even{background-color : lightsteelblue}
+
+p ul {color : #03396c}
+h1 {color : #03396c; font-size : 1.5em}
+h2 {color : #03396c; font-size : 1.25em}
+p a {color : #650e32}
+p a:visited {color :#40031c}
+p {color : #03396c}
+
+body {font-family: Tahoma, sans-serif;}
+body {background-color: #C6E9FD;}
+
+body nav {background-color: #83cef9}
+body nav a {color: #152a64}
+body nav a:hover {background-color: #6ac3fa}
+body nav {padding: 10px}
+nav {margin-bottom: 30px}
+
+@media only screen and (max-width: 800px) { /*small screen */
+    nav a {max-width: 100%; display: block;}
+    nav a {margin: 0.05em; padding: 0.05em;}
+    nav span {display: none;}
+}
