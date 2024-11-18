@@ -20,7 +20,7 @@ body nav a:hover {background-color: #6ac3fa}
 body nav {padding: 10px}
 nav {margin-bottom: 30px}
 img.irish{ height: 50%; width: 50%;}
-.foot {border: 2px solid rgb(10,53, 141);}
+.foot {border: 2px solid rgb(10,53, 141); padding: 3px;}
 @media only screen and (max-width: 800px) { /*small screen */
     nav a {max-width: 100%; display: block;}
     nav a {margin: 0.05em; padding: 0.05em;}
