@@ -20,6 +20,15 @@ body nav a:hover {background-color: #7fc9f7}
 body nav {padding: 10px}
 nav {margin-bottom: 30px}
 
+.skip {
+    position: absolute; 
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px; 
+    overflow: hidden;
+}
+
 @media only screen and (max-width: 800px) { /*small screen */
     nav a {max-width: 100%; display: block;}
     nav a {margin: 0.05em; padding: 0.05em;}
