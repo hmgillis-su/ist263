@@ -29,6 +29,12 @@ nav {margin-bottom: 30px}
     overflow: hidden;
 }
 
+.skip:focus {
+    position: static; 
+    width: auto; 
+    height: auto; 
+}
+
 @media only screen and (max-width: 800px) { /*small screen */
     nav a {max-width: 100%; display: block;}
     nav a {margin: 0.05em; padding: 0.05em;}
