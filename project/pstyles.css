@@ -6,13 +6,17 @@ div h2.num {border: 2px solid rgb(10, 53, 141);
     background-color: #69b0f2; text-align: center; margin: auto;}
 
 p ul {color : #03396c}
-h1 {color : #03396c; font-size : 1.5em}
-h2 {color : #03396c; font-size : 1.25em}
+h1 {color : #03396c; font-size : 1.5em; font-weight: 600}
+h2 {color : #03396c; font-size : 1.25em; font-weight: 600}
 p a {color : #650e32}
 p a:visited {color :#40031c}
 p {color : #03396c}
 
-body {font-family: Tahoma, sans-serif;}
+body {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
 body {background-color: #d2e9ff;}
 .webtitle {color: #03396c;}
 
