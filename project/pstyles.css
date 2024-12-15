@@ -21,10 +21,12 @@ body {
 body {background-color: #dff1fc;}
 .webtitle {color: #03396c; font-style: italic; font-size: 1.5em}
 
-body nav {background-color: #83cef9}
+body nav {background-color: #83cef9; 
+    padding: 10px; 
+    box-shadow: 0 0 1em 1em #152a64
+}
 body nav a {color: #152a64}
 body nav a:hover {background-color: #6ac3fa}
-body nav {padding: 10px}
 nav {margin-bottom: 30px}
 div img.irish{ height: 50%; width: 50%;}
 
