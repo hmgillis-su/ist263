@@ -21,12 +21,12 @@ body nav a {color: #152a64}
 body nav a:hover {background-color: #6ac3fa}
 body nav {padding: 10px}
 nav {margin-bottom: 30px}
-img.irish{ height: 50%; width: 50%;}
+div img.irish{ height: 50%; width: 50%;}
 .foot {border: 2px solid rgb(10,53, 141); padding: 8px;}
 
 /*landmarks page
 */
-.flex-contain {display: flex; flex-direction: row;
+.flex-contain {display: flex; flex-direction: column;
                flex-wrap: wrap; }
 
 @media only screen and (max-width: 800px) { /*small screen */
