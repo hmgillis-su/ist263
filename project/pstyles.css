@@ -23,7 +23,8 @@ body {background-color: #dff1fc;}
 
 body nav {background-color: #83cef9; 
     padding: 10px; 
-    box-shadow: 0 0 0.5em 0.5em #92d3fb;
+    box-shadow: 0 0 0.25m 0.25em #a9deff;
+    border: 0.5 px solid rgb(10,53,141); 
 }
 body nav a {color: #152a64}
 body nav a:hover {background-color: #6ac3fa}
