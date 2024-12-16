@@ -60,6 +60,9 @@ div img.irish{ height: 50%; width: 50%;}
     background-color: #f9faaf;
 }
 
+.pics {
+    height: 50%; 
+}
 /*landmarks page
 */
 .flex-contain {display: flex; flex-direction: column;
