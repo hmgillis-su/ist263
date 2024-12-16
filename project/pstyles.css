@@ -60,6 +60,11 @@ div img.irish{ height: 50%; width: 50%;}
     background-color: #f9faaf;
 }
 
+button {
+    background-color: #9bd7f9;
+    padding: 1.1em;
+}
+
 .pics {
     width: 150px;
     height: 230px; 
