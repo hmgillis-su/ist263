@@ -33,6 +33,11 @@ div img.irish{ height: 50%; width: 50%;}
 .skip {font-size: 0.3em;}
 .foot {padding: 0.5em;}
 
+.banner {
+    width: 100%;
+    height: auto; 
+}
+
 /*landmarks page
 */
 .flex-contain {display: flex; flex-direction: column;
