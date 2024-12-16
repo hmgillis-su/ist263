@@ -35,7 +35,9 @@ div img.irish{ height: 50%; width: 50%;}
 
 .banner {
     width: 100%;
-    height: auto; 
+    height: auto;
+    padding: 0px;
+    margin: 0px; 
 }
 
 /*landmarks page
