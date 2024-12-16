@@ -53,7 +53,7 @@ div img.irish{ height: 50%; width: 50%;}
     flex-basis: 100%;
     flex: 1;  
     padding: 6px;
-    border: 2px dotted rgb(14, 76, 152);
+    border: 3mm ridge rgba(14, 76, 152, .6);
 }
 
 /*landmarks page
