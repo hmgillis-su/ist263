@@ -11,7 +11,8 @@
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">        
         <script>
             function funFact() {
-                alert("Fun fact: Scituate is the most Irish town in America!")
+                var button = document.getElementById("fun");
+                button.innerHTML = "Fun fact: Scituate is the most Irish town in America!"; 
             }
         </script> 
     </head>
@@ -48,7 +49,7 @@
                 <li>Scituate is most known for its great beaches that make it the perfect summer destination spot! </li>
             </ul>
             <img src="https://hmgillis-su.github.io/ist263/project/scitlogo.png" alt="logo" class="scitlogo">
-            <button onclick = "funFact()">Did you know?</button>
+            <button id = "fun" onclick = "funFact()">Did you know?</button>
         </div>
         <br>
         <main id = "main">
