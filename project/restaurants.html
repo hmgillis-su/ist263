@@ -12,11 +12,6 @@
     
         <script>
             function leavingTab() {
-                window.addEventListener("beforeunload", (event) => {
-                    event.preventDefault(); 
-                    event.returnValue = "";
-                    return "You are now leaving this webpage";
-                })
             }
         </script>
     
