@@ -59,4 +59,5 @@ div img.irish{ height: 50%; width: 50%;}
     nav a {max-width: 100%; display: block;}
     nav a {margin: 0.05em; padding: 0.05em;}
     nav span {display: none;}
+    .col {width: 100%;}
 }
