@@ -12,7 +12,11 @@
     
         <script>
             function leavingTab() {
-                return "You are now leaving the webpage"; 
+                window.addEventListener("beforeunload", (event) => {
+                    event.preventDefault(); 
+                    event.returnValue = "";
+                    return "You are now leaving this webpage"
+                })
             }
         </script>
     
@@ -39,7 +43,7 @@
         <h3>Some of the best restaurants to visit:</h3>
         <main id = "main">
             <div>
-                <h3 onbeforeload="leavingTab()"><a href="https://www.saltsocietyma.com/">Salt Society</a></h3>
+                <h3 onclick="leavingTab()"><a href="https://www.saltsocietyma.com/">Salt Society</a></h3>
                 <ul>
                     <li>Food served: Sushi, seafood, burgers and other American classics </li>
                     <li>
