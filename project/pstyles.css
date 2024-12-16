@@ -39,13 +39,17 @@ div img.irish{ height: 50%; width: 50%;}
     padding: 0px;
     margin: 0px; 
 }
-.flex2 {
-    display: flex;
-    flex-direction: row; 
+.flex2:after {
+    content: "";
+    display: table;
+    clear: both;  
 }
-.flex2 div {
-    text-align: center; 
+.col {
+    float: left;
+    width: 33.33%;
+    padding: 10px; 
 }
+
 /*landmarks page
 */
 .flex-contain {display: flex; flex-direction: column;
