@@ -10,7 +10,7 @@ h1 {color : #03396c; font-size : 2em; font-weight: 600}
 h2 {color : #03396c; font-size : 1.5em; font-weight: 600}
 h3 {color : #03396c; font-size: 1.25em;}
 p a:visited {color :#0c1653;}
-p, a {color : #03396c;}
+p, a, ul, li {color : #03396c;}
 
 body {
     font-family: "Crimson Text", serif;
