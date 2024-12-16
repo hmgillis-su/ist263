@@ -52,6 +52,7 @@ div img.irish{ height: 50%; width: 50%;}
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;  
+    padding: 6px;
 }
 
 /*landmarks page
