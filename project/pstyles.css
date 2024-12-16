@@ -20,7 +20,7 @@ body {
 body {background-color: #dff1fc;}
 .webtitle {color: #03396c; font-style: italic; font-size: 1.5em;}
 
-.nav {background-color: #83cef9; 
+nav {background-color: #83cef9; 
     padding: 10px; 
     box-shadow: 0 0 0.25m 0.25em #98d4fa;
     border: 0.5 px solid rgb(10,53,141); 
